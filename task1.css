@@ -1,0 +1,39 @@
+*{
+    background-color: #010221;
+    text-align: center;
+}
+h1{
+    color: white;
+    font-weight: bolder;
+
+}
+
+h2{
+    color: #ffff;
+    font-size: 18px;
+    font-family: "Droid Sans Mono";
+
+
+}
+
+input{
+    background-color: white;
+    height:20px;
+    width: 250px;
+    border-radius: 25px;
+    border: #99ccff 3px solid;
+}
+.btn-submit{
+    background-color: darkgoldenrod;
+    color: #ffff;
+    height: 30px;
+    width: 100px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-weight: bold;
+
+}
+.btn-submit:hover{
+    background-color: #690303;
+    color: #ffff;
+}

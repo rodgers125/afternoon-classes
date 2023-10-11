@@ -1,0 +1,24 @@
+body{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: #2b0b0b;
+    font-size: 25px;
+    padding:25px;
+}
+a:hover{
+    color: #ffff;
+    background-color: #dd7d6d;
+}
+h1{
+    color: #ffff;
+    border-radius: 25px;
+    outline-style: solid;
+    font-size: 18px;
+    border: black 1px solid;
+}
+h2{
+    background-color: red;
+}
